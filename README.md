@@ -1,2 +1,3 @@
-# galeria-videos-2
-Parte 02 - Pessoal💙
+# Galeria Vídeos - Parte Dois 📽️
+## - Pessoal💙
+- Descubra quais são as Melhores Trilhas Sonoras de Filmes e Séries 🎞️ (opinião).
